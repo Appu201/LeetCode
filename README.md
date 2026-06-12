@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0626-exchange-seats](https://github.com/Appu201/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
