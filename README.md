@@ -12,5 +12,6 @@
 | [0626-exchange-seats](https://github.com/Appu201/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/Appu201/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Appu201/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Appu201/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
