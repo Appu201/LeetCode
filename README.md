@@ -18,6 +18,7 @@
 | [0619-biggest-single-number](https://github.com/Appu201/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Appu201/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Appu201/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1075-project-employees-i](https://github.com/Appu201/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Appu201/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Appu201/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Appu201/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
