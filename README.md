@@ -15,6 +15,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Appu201/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/Appu201/LeetCode/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/Appu201/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Appu201/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Appu201/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Appu201/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/Appu201/LeetCode/tree/main/1148-article-views-i/) | Easy |
