@@ -19,6 +19,7 @@
 | [1693-daily-leads-and-partners](https://github.com/Appu201/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Appu201/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Appu201/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1795-rearrange-products-table](https://github.com/Appu201/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Appu201/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
