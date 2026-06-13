@@ -17,6 +17,7 @@
 | [1179-reformat-department-table](https://github.com/Appu201/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Appu201/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Appu201/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Appu201/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Appu201/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Appu201/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
