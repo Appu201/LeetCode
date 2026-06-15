@@ -31,6 +31,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Appu201/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Appu201/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Appu201/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1174-immediate-food-delivery-ii](https://github.com/Appu201/LeetCode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/Appu201/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/Appu201/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Appu201/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
