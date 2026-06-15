@@ -25,6 +25,7 @@
 | [1148-article-views-i](https://github.com/Appu201/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Appu201/LeetCode/tree/main/1179-reformat-department-table/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Appu201/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/Appu201/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Appu201/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Appu201/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Appu201/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
