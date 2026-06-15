@@ -7,6 +7,7 @@
 | [0175-combine-two-tables](https://github.com/Appu201/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Appu201/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Appu201/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Appu201/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Appu201/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Appu201/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Appu201/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
