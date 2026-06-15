@@ -26,6 +26,7 @@
 | [0619-biggest-single-number](https://github.com/Appu201/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Appu201/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/Appu201/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/Appu201/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Appu201/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Appu201/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Appu201/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
