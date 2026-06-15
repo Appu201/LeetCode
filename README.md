@@ -30,4 +30,12 @@
 | [1795-rearrange-products-table](https://github.com/Appu201/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Appu201/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Appu201/LeetCode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Appu201/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
