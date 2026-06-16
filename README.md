@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Appu201/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/Appu201/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Appu201/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Appu201/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Appu201/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Appu201/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
