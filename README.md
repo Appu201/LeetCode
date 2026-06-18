@@ -40,6 +40,7 @@
 | [1251-average-selling-price](https://github.com/Appu201/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Appu201/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Appu201/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Appu201/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Appu201/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Appu201/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Appu201/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
