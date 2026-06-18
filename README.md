@@ -44,6 +44,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Appu201/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Appu201/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Appu201/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1729-find-followers-count](https://github.com/Appu201/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Appu201/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Appu201/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Appu201/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
