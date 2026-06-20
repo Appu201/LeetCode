@@ -67,6 +67,7 @@
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -86,6 +87,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -180,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
