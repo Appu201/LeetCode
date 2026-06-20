@@ -67,6 +67,7 @@
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -84,6 +85,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
