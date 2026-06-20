@@ -74,6 +74,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -99,6 +100,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Two Pointers
@@ -142,6 +144,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Appu201/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Trie
@@ -201,6 +204,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Appu201/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Sorting
@@ -242,4 +246,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 <!---LeetCode Topics End-->
