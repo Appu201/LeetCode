@@ -63,6 +63,7 @@
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/Appu201/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/Appu201/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -255,4 +257,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
