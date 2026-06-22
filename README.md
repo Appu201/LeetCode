@@ -92,6 +92,7 @@
 | [0036-valid-sudoku](https://github.com/Appu201/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Appu201/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -116,6 +117,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Appu201/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Appu201/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Appu201/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -180,6 +182,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Appu201/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Appu201/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Appu201/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Appu201/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Appu201/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
