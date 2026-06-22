@@ -22,10 +22,10 @@ class Solution {
         ListNode sh=slow;
 
         ListNode curr=sh;
-        ListNode prev=null,next=null;
+        ListNode prev=null;
 
         while(curr!=null){
-            next=curr.next;
+            ListNode next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
