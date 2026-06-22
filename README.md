@@ -118,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Appu201/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Appu201/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
