@@ -160,6 +160,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Appu201/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@
 | [0012-integer-to-roman](https://github.com/Appu201/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Appu201/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -322,4 +324,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Appu201/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
