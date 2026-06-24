@@ -65,6 +65,7 @@
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -161,6 +162,7 @@
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Appu201/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
