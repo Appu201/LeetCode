@@ -156,6 +156,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Appu201/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Appu201/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
