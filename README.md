@@ -66,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -136,6 +137,7 @@
 | [0027-remove-element](https://github.com/Appu201/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Appu201/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Appu201/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Appu201/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Appu201/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -310,6 +312,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
