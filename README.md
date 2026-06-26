@@ -157,6 +157,7 @@
 | [0020-valid-parentheses](https://github.com/Appu201/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Appu201/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Appu201/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -176,6 +177,7 @@
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Appu201/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
