@@ -175,6 +175,7 @@
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Appu201/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -379,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Appu201/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
