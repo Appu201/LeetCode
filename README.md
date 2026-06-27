@@ -92,6 +92,7 @@
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Appu201/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Appu201/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Appu201/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -216,6 +217,7 @@
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Appu201/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/Appu201/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Appu201/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
