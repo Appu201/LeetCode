@@ -85,6 +85,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Appu201/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -128,6 +129,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -206,6 +208,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Appu201/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Appu201/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Appu201/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -333,6 +336,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
