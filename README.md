@@ -53,6 +53,7 @@
 | [1795-rearrange-products-table](https://github.com/Appu201/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Appu201/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Appu201/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/Appu201/LeetCode/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
