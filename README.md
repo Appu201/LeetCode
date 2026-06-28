@@ -423,6 +423,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,4 +432,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
