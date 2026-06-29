@@ -153,6 +153,7 @@
 | [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Appu201/LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Appu201/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Appu201/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Appu201/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Appu201/LeetCode/tree/main/0143-reorder-list/) | Medium |
@@ -175,6 +176,7 @@
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Appu201/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Appu201/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/Appu201/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
