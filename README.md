@@ -93,6 +93,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -183,6 +184,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Appu201/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Appu201/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Appu201/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
