@@ -73,6 +73,7 @@
 | [0088-merge-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Appu201/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/Appu201/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -391,6 +392,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Appu201/LeetCode/tree/main/0136-single-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Union-Find
