@@ -106,6 +106,7 @@
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Appu201/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -148,6 +149,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
@@ -244,6 +246,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Appu201/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
