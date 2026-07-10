@@ -80,6 +80,7 @@
 | [0200-number-of-islands](https://github.com/Appu201/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/Appu201/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -127,6 +128,7 @@
 | [0146-lru-cache](https://github.com/Appu201/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Appu201/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Appu201/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -359,6 +361,7 @@
 | [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Appu201/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
