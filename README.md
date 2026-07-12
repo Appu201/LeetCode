@@ -239,6 +239,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Appu201/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
