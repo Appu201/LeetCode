@@ -245,6 +245,7 @@
 | [0231-power-of-two](https://github.com/Appu201/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Appu201/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/Appu201/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Appu201/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -322,6 +323,7 @@
 | [0206-reverse-linked-list](https://github.com/Appu201/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Appu201/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Appu201/LeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
