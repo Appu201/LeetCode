@@ -69,6 +69,7 @@
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Appu201/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Appu201/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Appu201/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -238,6 +239,7 @@
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Appu201/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Appu201/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Appu201/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
