@@ -100,6 +100,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/Appu201/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -261,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Appu201/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Appu201/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Appu201/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
