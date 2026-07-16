@@ -98,6 +98,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Appu201/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Appu201/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -187,6 +188,7 @@
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -410,6 +412,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
