@@ -96,6 +96,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/Appu201/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Appu201/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Appu201/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Appu201/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -331,6 +332,7 @@
 | [0143-reorder-list](https://github.com/Appu201/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/Appu201/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -394,6 +396,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/Appu201/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
