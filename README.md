@@ -82,6 +82,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Appu201/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Appu201/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Appu201/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -191,6 +192,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Appu201/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Appu201/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Appu201/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Appu201/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -275,6 +277,7 @@
 | [0069-sqrtx](https://github.com/Appu201/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Appu201/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/Appu201/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Appu201/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
