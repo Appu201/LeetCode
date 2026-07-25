@@ -88,6 +88,7 @@
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Appu201/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/Appu201/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Appu201/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Appu201/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Appu201/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
