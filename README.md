@@ -312,6 +312,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Appu201/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -466,6 +467,7 @@
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Appu201/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
