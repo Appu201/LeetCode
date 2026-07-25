@@ -251,6 +251,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2129-capitalize-the-title](https://github.com/Appu201/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Appu201/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
