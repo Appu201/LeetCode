@@ -115,6 +115,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Appu201/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -417,6 +418,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +483,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Appu201/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Appu201/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
