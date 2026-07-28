@@ -262,6 +262,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Appu201/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Appu201/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Appu201/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
