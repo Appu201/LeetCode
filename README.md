@@ -599,6 +599,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Appu201/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -606,12 +607,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Appu201/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Appu201/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -635,4 +638,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Appu201/LeetCode/tree/main/0561-array-partition/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
