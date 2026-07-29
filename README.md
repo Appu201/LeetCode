@@ -600,6 +600,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Appu201/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -608,6 +609,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Appu201/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,6 +617,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Appu201/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Appu201/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -642,4 +645,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
