@@ -185,6 +185,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -267,6 +268,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Appu201/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -296,6 +298,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -490,6 +493,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Appu201/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
@@ -505,6 +509,7 @@
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
