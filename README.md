@@ -179,6 +179,7 @@
 | [0904-fruit-into-baskets](https://github.com/Appu201/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Appu201/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -329,6 +330,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Appu201/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Appu201/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Appu201/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Appu201/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -663,4 +665,8 @@
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
