@@ -336,6 +336,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Appu201/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Appu201/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Appu201/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -477,6 +478,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/Appu201/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
