@@ -273,6 +273,7 @@
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Appu201/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Appu201/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -336,6 +337,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Appu201/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Appu201/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
