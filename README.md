@@ -66,6 +66,7 @@
 | [0027-remove-element](https://github.com/Appu201/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/Appu201/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Appu201/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
@@ -674,4 +675,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
