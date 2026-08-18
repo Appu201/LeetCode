@@ -260,6 +260,7 @@
 | [0567-permutation-in-string](https://github.com/Appu201/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Appu201/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Appu201/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -385,6 +386,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Appu201/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0739-daily-temperatures](https://github.com/Appu201/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Linked List
@@ -682,4 +684,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
