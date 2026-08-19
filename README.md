@@ -124,6 +124,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Appu201/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1816-truncate-sentence](https://github.com/Appu201/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Appu201/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Appu201/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -275,6 +276,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Appu201/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1816-truncate-sentence](https://github.com/Appu201/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Appu201/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Appu201/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
