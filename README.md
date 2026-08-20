@@ -115,6 +115,7 @@
 | [1260-shift-2d-grid](https://github.com/Appu201/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Appu201/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Appu201/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -379,6 +380,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Appu201/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Appu201/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Appu201/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Appu201/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Appu201/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Appu201/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
