@@ -357,6 +357,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Appu201/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Appu201/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Appu201/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Appu201/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -381,6 +382,7 @@
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Appu201/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Appu201/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Appu201/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Appu201/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Appu201/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Appu201/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
