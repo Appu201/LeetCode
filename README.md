@@ -261,6 +261,7 @@
 | [0290-word-pattern](https://github.com/Appu201/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Appu201/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0415-add-strings](https://github.com/Appu201/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Appu201/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -347,6 +348,7 @@
 | [0263-ugly-number](https://github.com/Appu201/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Appu201/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Appu201/LeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0415-add-strings](https://github.com/Appu201/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Appu201/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Appu201/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -382,6 +384,7 @@
 | [0054-spiral-matrix](https://github.com/Appu201/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Appu201/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/Appu201/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/Appu201/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Appu201/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Appu201/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Appu201/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
