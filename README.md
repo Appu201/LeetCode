@@ -429,6 +429,7 @@
 | [0206-reverse-linked-list](https://github.com/Appu201/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Appu201/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Appu201/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Appu201/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Appu201/LeetCode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
@@ -622,6 +623,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Appu201/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Appu201/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -662,6 +664,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Appu201/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Appu201/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Appu201/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Appu201/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Appu201/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Appu201/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
