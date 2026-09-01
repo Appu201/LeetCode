@@ -202,6 +202,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Appu201/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Appu201/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Appu201/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -293,6 +294,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Appu201/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Appu201/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Appu201/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Appu201/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Appu201/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
