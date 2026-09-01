@@ -207,6 +207,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Appu201/LeetCode/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Appu201/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Appu201/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -305,6 +306,7 @@
 | [3110-score-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Appu201/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Appu201/LeetCode/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Appu201/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Appu201/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -610,6 +612,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Appu201/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Appu201/LeetCode/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
