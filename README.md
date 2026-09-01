@@ -282,6 +282,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Appu201/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Appu201/LeetCode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Appu201/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Appu201/LeetCode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Appu201/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -368,6 +369,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Appu201/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Appu201/LeetCode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Appu201/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Appu201/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
