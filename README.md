@@ -97,6 +97,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Appu201/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Appu201/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Appu201/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Appu201/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
@@ -180,6 +181,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Appu201/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Appu201/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Appu201/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
