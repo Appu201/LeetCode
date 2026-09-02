@@ -78,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Appu201/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Appu201/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Appu201/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Appu201/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Appu201/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Appu201/LeetCode/tree/main/0137-single-number-ii/) | Medium |
@@ -329,6 +330,7 @@
 | [0072-edit-distance](https://github.com/Appu201/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Appu201/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/Appu201/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Appu201/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Appu201/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Appu201/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Appu201/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
