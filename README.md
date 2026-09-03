@@ -199,6 +199,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Appu201/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -439,6 +440,7 @@
 | [0739-daily-temperatures](https://github.com/Appu201/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -498,6 +500,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Appu201/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -655,6 +658,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Appu201/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Appu201/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
