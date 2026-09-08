@@ -127,6 +127,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Appu201/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1476-subrectangle-queries](https://github.com/Appu201/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Appu201/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -534,6 +535,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Appu201/LeetCode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Appu201/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1476-subrectangle-queries](https://github.com/Appu201/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -668,6 +670,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Appu201/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
+| [1476-subrectangle-queries](https://github.com/Appu201/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
