@@ -192,6 +192,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Appu201/LeetCode/tree/main/0525-contiguous-array/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Appu201/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Appu201/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -286,6 +287,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Appu201/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Appu201/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0482-license-key-formatting](https://github.com/Appu201/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Appu201/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Appu201/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Appu201/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -664,6 +666,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Appu201/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Appu201/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -769,4 +772,8 @@
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Appu201/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Appu201/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
