@@ -319,6 +319,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Appu201/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Appu201/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Appu201/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
@@ -356,6 +357,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Appu201/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Appu201/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Appu201/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -451,6 +453,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,6 +769,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
