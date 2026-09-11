@@ -151,6 +151,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Appu201/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Appu201/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Appu201/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Appu201/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Appu201/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -225,6 +226,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Appu201/LeetCode/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Appu201/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Appu201/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/Appu201/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Appu201/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -496,6 +498,7 @@
 | [0234-palindrome-linked-list](https://github.com/Appu201/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Appu201/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Appu201/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Appu201/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,6 +746,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Appu201/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Appu201/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Appu201/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
