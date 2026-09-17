@@ -129,6 +129,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Appu201/LeetCode/tree/main/1476-subrectangle-queries/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Appu201/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -213,6 +214,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Appu201/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Appu201/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Appu201/LeetCode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Appu201/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Appu201/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Appu201/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -351,6 +353,7 @@
 | [0392-is-subsequence](https://github.com/Appu201/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Appu201/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Appu201/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Appu201/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Appu201/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
@@ -636,6 +639,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Appu201/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Appu201/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Appu201/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Appu201/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
@@ -651,6 +655,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Appu201/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Appu201/LeetCode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Appu201/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Appu201/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Appu201/LeetCode/tree/main/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
