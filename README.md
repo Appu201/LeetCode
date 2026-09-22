@@ -143,6 +143,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Appu201/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Appu201/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -222,6 +223,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Appu201/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Appu201/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -263,6 +265,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Appu201/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Appu201/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Appu201/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Appu201/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -754,6 +757,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Appu201/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Appu201/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Appu201/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Appu201/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
