@@ -146,6 +146,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Appu201/LeetCode/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/Appu201/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Appu201/LeetCode/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
@@ -227,6 +228,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Appu201/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Appu201/LeetCode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/Appu201/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2418-sort-the-people](https://github.com/Appu201/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/Appu201/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Appu201/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -331,6 +333,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Appu201/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2418-sort-the-people](https://github.com/Appu201/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Appu201/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2678-number-of-senior-citizens](https://github.com/Appu201/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -603,6 +606,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Appu201/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Appu201/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Appu201/LeetCode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2418-sort-the-people](https://github.com/Appu201/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Appu201/LeetCode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Appu201/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Appu201/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
