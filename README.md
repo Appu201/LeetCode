@@ -311,6 +311,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Appu201/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Appu201/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Appu201/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Appu201/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Appu201/LeetCode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Appu201/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -471,6 +472,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Appu201/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Appu201/LeetCode/tree/main/1172-dinner-plate-stacks/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Appu201/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Appu201/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Linked List
@@ -800,6 +802,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Appu201/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Appu201/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
