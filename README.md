@@ -368,6 +368,7 @@
 | [0509-fibonacci-number](https://github.com/Appu201/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Appu201/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Appu201/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Appu201/LeetCode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Appu201/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Appu201/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Greedy
@@ -422,6 +423,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/Appu201/LeetCode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Appu201/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Appu201/LeetCode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Appu201/LeetCode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Appu201/LeetCode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Appu201/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Appu201/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -717,6 +719,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Appu201/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Appu201/LeetCode/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
