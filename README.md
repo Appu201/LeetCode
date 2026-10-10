@@ -71,6 +71,7 @@
 | [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Appu201/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Appu201/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Appu201/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Appu201/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Appu201/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Appu201/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -814,6 +815,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Appu201/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Appu201/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Appu201/LeetCode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -832,4 +834,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Appu201/LeetCode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Appu201/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
